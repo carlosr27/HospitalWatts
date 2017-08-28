@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 33523df64935d464ca8c929f1978ad15
+timeCreated: 1497931489
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abbdomen_Control
+    100002: ABDOMEN
+    100004: ALL
+    100006: CHEST
+    100008: Chest_Control
+    100010: cluster1Handle
+    100012: cluster2Handle
+    100014: cluster3Handle
+    100016: cluster4Handle
+    100018: curve1
+    100020: //RootNode
+    100022: HEAD
+    100024: Head_Control
+    100026: HEAD_TOP
+    100028: ikHandle1
+    100030: ikHandle2
+    100032: ikHandle3
+    100034: ikHandle4
+    100036: ikHandle5
+    100038: ikHandle6
+    100040: ikHandle7
+    100042: L_Clavice
+    100044: L_Control_Ankle
+    100046: L_Control_Clavice
+    100048: L_Control_Elbow
+    100050: L_Control_Foot
+    100052: L_Control_Knee
+    100054: L_Control_Leg
+    100056: L_Control_Pulse
+    100058: L_Control_Shoulder
+    100060: L_Control_Toe
+    100062: L_Elbow
+    100064: L_Finger_01
+    100066: L_Finger_02
+    100068: L_Finger_03
+    100070: L_Finger_4
+    100072: L_Foot
+    100074: L_Hand_01
+    100076: L_Hand_02
+    100078: L_Hand_03
+    100080: L_Hand_04
+    100082: L_Hell
+    100084: L_knee
+    100086: L_Pulse
+    100088: L_Shoulder
+    100090: L_Thingh
+    100092: L_Toe
+    100094: left1
+    100096: NECK
+    100098: Neck_Control
+    100100: PELVIS
+    100102: Pelvis_Control
+    100104: pSphere2
+    100106: R_Clavice
+    100108: R_Control_Ankle
+    100110: R_Control_Clavice
+    100112: R_Control_Elbow
+    100114: R_Control_Foot
+    100116: R_Control_Knee
+    100118: R_Control_Leg
+    100120: R_Control_Pulse
+    100122: R_Control_Shoulder
+    100124: R_Control_Toe
+    100126: R_Elbow
+    100128: R_Finger_01
+    100130: R_Finger_02
+    100132: R_Finger_03
+    100134: R_Finger_4
+    100136: R_Foot
+    100138: R_Hand_01
+    100140: R_Hand_02
+    100142: R_Hand_03
+    100144: R_Hand_04
+    100146: R_Hell
+    100148: R_knee
+    100150: R_Pulse
+    100152: R_Shoulder
+    100154: R_Thingh
+    100156: R_Toe
+    100158: ROOT
+    400000: Abbdomen_Control
+    400002: ABDOMEN
+    400004: ALL
+    400006: CHEST
+    400008: Chest_Control
+    400010: cluster1Handle
+    400012: cluster2Handle
+    400014: cluster3Handle
+    400016: cluster4Handle
+    400018: curve1
+    400020: //RootNode
+    400022: HEAD
+    400024: Head_Control
+    400026: HEAD_TOP
+    400028: ikHandle1
+    400030: ikHandle2
+    400032: ikHandle3
+    400034: ikHandle4
+    400036: ikHandle5
+    400038: ikHandle6
+    400040: ikHandle7
+    400042: L_Clavice
+    400044: L_Control_Ankle
+    400046: L_Control_Clavice
+    400048: L_Control_Elbow
+    400050: L_Control_Foot
+    400052: L_Control_Knee
+    400054: L_Control_Leg
+    400056: L_Control_Pulse
+    400058: L_Control_Shoulder
+    400060: L_Control_Toe
+    400062: L_Elbow
+    400064: L_Finger_01
+    400066: L_Finger_02
+    400068: L_Finger_03
+    400070: L_Finger_4
+    400072: L_Foot
+    400074: L_Hand_01
+    400076: L_Hand_02
+    400078: L_Hand_03
+    400080: L_Hand_04
+    400082: L_Hell
+    400084: L_knee
+    400086: L_Pulse
+    400088: L_Shoulder
+    400090: L_Thingh
+    400092: L_Toe
+    400094: left1
+    400096: NECK
+    400098: Neck_Control
+    400100: PELVIS
+    400102: Pelvis_Control
+    400104: pSphere2
+    400106: R_Clavice
+    400108: R_Control_Ankle
+    400110: R_Control_Clavice
+    400112: R_Control_Elbow
+    400114: R_Control_Foot
+    400116: R_Control_Knee
+    400118: R_Control_Leg
+    400120: R_Control_Pulse
+    400122: R_Control_Shoulder
+    400124: R_Control_Toe
+    400126: R_Elbow
+    400128: R_Finger_01
+    400130: R_Finger_02
+    400132: R_Finger_03
+    400134: R_Finger_4
+    400136: R_Foot
+    400138: R_Hand_01
+    400140: R_Hand_02
+    400142: R_Hand_03
+    400144: R_Hand_04
+    400146: R_Hell
+    400148: R_knee
+    400150: R_Pulse
+    400152: R_Shoulder
+    400154: R_Thingh
+    400156: R_Toe
+    400158: ROOT
+    4300000: pSphere2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pSphere2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ALL
+        weight: 1
+      - path: ALL/Pelvis_Control
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/L_Control_Clavice
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/L_Control_Clavice/L_Control_Shoulder
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/L_Control_Clavice/L_Control_Shoulder/L_Control_Elbow
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/L_Control_Clavice/L_Control_Shoulder/L_Control_Elbow/L_Control_Pulse
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/Neck_Control
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/Neck_Control/Head_Control
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/R_Control_Clavice
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/R_Control_Clavice/R_Control_Shoulder
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/R_Control_Clavice/R_Control_Shoulder/R_Control_Elbow
+        weight: 1
+      - path: ALL/Pelvis_Control/Abbdomen_Control/Chest_Control/R_Control_Clavice/R_Control_Shoulder/R_Control_Elbow/R_Control_Pulse
+        weight: 1
+      - path: ALL/Pelvis_Control/L_Control_Leg
+        weight: 1
+      - path: ALL/Pelvis_Control/L_Control_Leg/L_Control_Knee
+        weight: 1
+      - path: ALL/Pelvis_Control/L_Control_Leg/L_Control_Knee/L_Control_Ankle
+        weight: 1
+      - path: ALL/Pelvis_Control/L_Control_Leg/L_Control_Knee/L_Control_Ankle/L_Control_Foot
+        weight: 1
+      - path: ALL/Pelvis_Control/L_Control_Leg/L_Control_Knee/L_Control_Ankle/L_Control_Foot/L_Control_Toe
+        weight: 1
+      - path: ALL/Pelvis_Control/R_Control_Leg
+        weight: 1
+      - path: ALL/Pelvis_Control/R_Control_Leg/R_Control_Knee
+        weight: 1
+      - path: ALL/Pelvis_Control/R_Control_Leg/R_Control_Knee/R_Control_Ankle
+        weight: 1
+      - path: ALL/Pelvis_Control/R_Control_Leg/R_Control_Knee/R_Control_Ankle/R_Control_Foot
+        weight: 1
+      - path: ALL/Pelvis_Control/R_Control_Leg/R_Control_Knee/R_Control_Ankle/R_Control_Foot/R_Control_Toe
+        weight: 1
+      - path: cluster1Handle
+        weight: 1
+      - path: cluster2Handle
+        weight: 1
+      - path: cluster3Handle
+        weight: 1
+      - path: cluster4Handle
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle4
+        weight: 1
+      - path: ikHandle5
+        weight: 1
+      - path: ikHandle6
+        weight: 1
+      - path: ikHandle7
+        weight: 1
+      - path: left1
+        weight: 1
+      - path: pSphere2
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/curve1
+        weight: 1
+      - path: ROOT/PELVIS
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse/L_Hand_01
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse/L_Hand_01/L_Finger_01
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse/L_Hand_01/L_Finger_01/L_Finger_02
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse/L_Hand_01/L_Finger_01/L_Finger_02/L_Finger_03
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse/L_Hand_01/L_Finger_01/L_Finger_02/L_Finger_03/L_Finger_4
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse/L_Hand_02
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse/L_Hand_02/L_Hand_03
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/L_Clavice/L_Shoulder/L_Elbow/L_Pulse/L_Hand_02/L_Hand_03/L_Hand_04
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/NECK
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/NECK/HEAD
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/NECK/HEAD/HEAD_TOP
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse/R_Hand_01
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse/R_Hand_01/R_Finger_01
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse/R_Hand_01/R_Finger_01/R_Finger_02
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse/R_Hand_01/R_Finger_01/R_Finger_02/R_Finger_03
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse/R_Hand_01/R_Finger_01/R_Finger_02/R_Finger_03/R_Finger_4
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse/R_Hand_02
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse/R_Hand_02/R_Hand_03
+        weight: 1
+      - path: ROOT/PELVIS/ABDOMEN/CHEST/R_Clavice/R_Shoulder/R_Elbow/R_Pulse/R_Hand_02/R_Hand_03/R_Hand_04
+        weight: 1
+      - path: ROOT/PELVIS/L_Thingh
+        weight: 1
+      - path: ROOT/PELVIS/L_Thingh/L_knee
+        weight: 1
+      - path: ROOT/PELVIS/L_Thingh/L_knee/L_Hell
+        weight: 1
+      - path: ROOT/PELVIS/L_Thingh/L_knee/L_Hell/L_Foot
+        weight: 1
+      - path: ROOT/PELVIS/L_Thingh/L_knee/L_Hell/L_Foot/L_Toe
+        weight: 1
+      - path: ROOT/PELVIS/R_Thingh
+        weight: 1
+      - path: ROOT/PELVIS/R_Thingh/R_knee
+        weight: 1
+      - path: ROOT/PELVIS/R_Thingh/R_knee/R_Hell
+        weight: 1
+      - path: ROOT/PELVIS/R_Thingh/R_knee/R_Hell/R_Foot
+        weight: 1
+      - path: ROOT/PELVIS/R_Thingh/R_knee/R_Hell/R_Foot/R_Toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
